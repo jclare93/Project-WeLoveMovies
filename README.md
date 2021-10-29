@@ -1,7 +1,6 @@
 # Project-WeLoveMovies
 
-we love movie projects backend
-
+**We Love Movies** project' backend.
 
 Uses express, node.js, and knex. 
 
